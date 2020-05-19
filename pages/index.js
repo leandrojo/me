@@ -7,7 +7,7 @@ import {
   Header,
   Hero,
   Photography,
-} from './partials';
+} from '../partials';
 
 export default function Home() {
   return (
